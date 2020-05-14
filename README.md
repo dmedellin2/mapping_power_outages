@@ -1,3 +1,7 @@
+![Image of Blackout](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabcnews.go.com%2FUS%2Fyork-facing-russian-roulette-future-power-outages-gov%2Fstory%3Fid%3D64344642&psig=AOvVaw2i-LIuJQ-r-NB7Q7lhqG4z&ust=1589569792185000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICU1aeHtOkCFQAAAAAdAAAAABAI)
+
+
+
 | Parameter | Description | Data Type | Example |
 | ------ | ------ | ------- | ------ |
 | tweet_id | Numerical ID of the desired Tweet. | Integer | 123 |
