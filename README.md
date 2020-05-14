@@ -1,4 +1,4 @@
-![Image of Blackout](https://s7d2.scene7.com/is/image/TWCNews/blackoutlookbackjpg)
+<img align="center" src="https://s7d2.scene7.com/is/image/TWCNews/blackoutlookbackjpg">
 
 
 
