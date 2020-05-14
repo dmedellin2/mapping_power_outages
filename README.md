@@ -1,4 +1,4 @@
-![Image of Blackout](https://nbcots.go-vip.co/wp-content/uploads/2019/09/GettyImages-1155510644.jpg?fit=1200%2C675)
+![Image of Blackout](https://s7d2.scene7.com/is/image/TWCNews/blackoutlookbackjpg)
 
 
 
