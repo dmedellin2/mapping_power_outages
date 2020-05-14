@@ -2,6 +2,7 @@
 
 # Using Social Media to Map Power Outages Across the United States
 
+### Contributors
 [Mattew Malone](https://git.generalassemb.ly/dmedellin/)\
 [Danielle Medellin](https://git.generalassemb.ly/mtm1186/)\
 [Omar Smiley](https://git.generalassemb.ly/smileyo)
