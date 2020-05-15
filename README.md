@@ -41,7 +41,7 @@ Twitter's focus on sharing ideas and information to the world served as our prim
 | state | State tweet originated from | String | "Ohio" |
 
 ## Python Package Requirements
-In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment: \
+In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment:
 * [Numpy](https://pypi.org/project/numpy/)
 * [Pandas](https://pypi.org/project/pandas/)
 * [Matplotlib](https://pypi.org/project/matplotlib/)
