@@ -12,6 +12,16 @@
 During a disaster, residential areas often experience massive power outages, that in many cases last for days. Traditional methods to map power outages include live feeds and data that is provided by major utility companies as well as on satellite data that capture the extent of light emitted at night. 
 This tool will utilize posts on social media, specifically Twitter, to identify “hot spots” of concern and areas suffering from power outages. Following an event, the tool will scan relevant news or social media websites to identify areas likely to be suffering from power outage.
 
+# Contents
+
+In this repo, you will find the following notebooks in the `code` folder:
+
+1. [Data Collection](./code/01_data_collection.ipynb)
+2. [Data Cleaning & Word2Vec Model](./code/02_data_cleaning_and_word2vec.ipynb)
+3. [EDA](./code/03_EDA.ipynb)
+4. [Geovisual Mapping](./code/04_bokeh_mapping.ipynb)
+
+All [data](./data/cleaned_tweets.csv) can be found in the `data` folder. Also included are [presentation slides](linkwillgohere). 
 
 ## Executive Summary
 The rise of social media and ability for companies to leverage nontraditional data creates a prime opportunity to gain additional visibility into when, why and where electrical outages occur. Public citizens are valuable witnesses to outages and can provide real-time situational awareness in the form of social media posts to electrical companies, thereby helping shape responses. Connecting customers who want to provide meaningful content to utility providers in order to resolve outages faster is a mutually beneficial relationship that should be strengthened.
