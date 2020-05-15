@@ -21,7 +21,7 @@ In this repo, you will find the following notebooks in the `code` folder:
 3. [EDA](./code/03_EDA.ipynb)
 4. [Geovisual Mapping](./code/04_bokeh_mapping.ipynb)
 
-All [data](./data/cleaned_tweets.csv) can be found in the `data` folder. Also included are [presentation slides](linkwillgohere). 
+All [data](./data/cleaned_tweets.csv) can be found in the `data` folder. Also included are [presentation slides](./power_outage_slides.pdf). 
 
 ## Python Package Requirements
 In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment:
