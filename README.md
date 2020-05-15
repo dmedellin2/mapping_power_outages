@@ -55,14 +55,14 @@ In order to succesfully clone this repository, please insure to have the followi
 
 ## References
 
-- Top 5 U.S. States For Power Outages, Generac (Feb, 2018), https://www.generac.com/be-prepared/power-outages/top-5-states-where-power-outage-occur \
-- Twitter API Reference https://developer.twitter.com/en/docs/tweets/search/api-reference \
-- Gensim Word2Vec Tutorial, Kavita Gensim, https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.Xr3yDBNKhTa \
-- A Beginner’s Guide to Word2Vec and Neural Word Embeddings, https://pathmind.com/wiki/word2vec \
-- Lesson-NLP-i, Matt Brems https://git.generalassemb.ly/DSI-US-11/5.03-lesson-nlp-i \
-- Lesson Word Vectors, Matt Brems, https://git.generalassemb.ly/DSI-US-11/8.07-lesson-word-vectors \
-- Can We Use Social Media to Locate Legitimate Power Outages?, Jen Hill,(Aprl, 2017), https://towardsdatascience.com/can-we-use-social-media-to-locate-legitimate-power-outages-7b7409708447 \
-- Adam Cohen, Twitter Scraper https://github.com/Adam395/Twitter-Scraper \
-- Elliptical (true) Mercator Projection, https://wiki.openstreetmap.org/wiki/Mercator#Elliptical_.28true.29_Mercator_Projection \
-- Twitter FAQ https://investor.twitterinc.com/contact/faq/default.aspx \
+- Top 5 U.S. States For Power Outages, Generac (Feb, 2018), https://www.generac.com/be-prepared/power-outages/top-5-states-where-power-outage-occur
+- Twitter API Reference https://developer.twitter.com/en/docs/tweets/search/api-reference
+- Gensim Word2Vec Tutorial, Kavita Gensim, https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.Xr3yDBNKhTa
+- A Beginner’s Guide to Word2Vec and Neural Word Embeddings, https://pathmind.com/wiki/word2vec
+- Lesson-NLP-i, Matt Brems https://git.generalassemb.ly/DSI-US-11/5.03-lesson-nlp-i
+- Lesson Word Vectors, Matt Brems, https://git.generalassemb.ly/DSI-US-11/8.07-lesson-word-vectors
+- Can We Use Social Media to Locate Legitimate Power Outages?, Jen Hill,(Aprl, 2017), https://towardsdatascience.com/can-we-use-social-media-to-locate-legitimate-power-outages-7b7409708447
+- Adam Cohen, Twitter Scraper https://github.com/Adam395/Twitter-Scraper
+- Elliptical (true) Mercator Projection, https://wiki.openstreetmap.org/wiki/Mercator#Elliptical_.28true.29_Mercator_Projection
+- Twitter FAQ https://investor.twitterinc.com/contact/faq/default.aspx
 - Worst Job in America: Responding to Irate Tweets From New York City Subway Riders https://www.wsj.com/articles/worst-job-in-america-responding-to-irate-tweets-from-new-york-city-subway-riders-1525790473
