@@ -23,6 +23,17 @@ In this repo, you will find the following notebooks in the `code` folder:
 
 All [data](./data/cleaned_tweets.csv) can be found in the `data` folder. Also included are [presentation slides](linkwillgohere). 
 
+## Python Package Requirements
+In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment:
+* [Numpy](https://pypi.org/project/numpy/)
+* [Pandas](https://pypi.org/project/pandas/)
+* [Matplotlib](https://pypi.org/project/matplotlib/)
+* [Seaborn](https://pypi.org/project/seaborn/)
+* [Bokeh](https://pypi.org/project/bokeh/)
+* [nltk](https://pypi.org/project/nltk/)
+* [Tweetscraper](https://github.com/taspinar/twitterscraper)
+* [Scikit Learn](https://pypi.org/project/scikit-learn/)
+
 ## Executive Summary
 The rise of social media and ability for companies to leverage nontraditional data creates a prime opportunity to gain additional visibility into when, why and where electrical outages occur. Public citizens are valuable witnesses to outages and can provide real-time situational awareness in the form of social media posts to electrical companies, thereby helping shape responses. Connecting customers who want to provide meaningful content to utility providers in order to resolve outages faster is a mutually beneficial relationship that should be strengthened.
 
@@ -50,16 +61,6 @@ Twitter's focus on sharing ideas and information to the world served as our prim
 | outage_sentiment | Sentiment value regarding power outages  | Integer | 0.5 |
 | state | State tweet originated from | String | "Ohio" |
 
-## Python Package Requirements
-In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment:
-* [Numpy](https://pypi.org/project/numpy/)
-* [Pandas](https://pypi.org/project/pandas/)
-* [Matplotlib](https://pypi.org/project/matplotlib/)
-* [Seaborn](https://pypi.org/project/seaborn/)
-* [Bokeh](https://pypi.org/project/bokeh/)
-* [nltk](https://pypi.org/project/nltk/)
-* [Tweetscraper](https://github.com/taspinar/twitterscraper)
-* [Scikit Learn](https://pypi.org/project/scikit-learn/)
 
 ## Conclusions and Next Steps
 
