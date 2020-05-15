@@ -11,7 +11,7 @@
 
 During a disaster, residential areas often experience massive power outages, that in many cases last for days. Traditional methods to map power outages include live feeds and data that is provided by major utility companies as well as on satellite data that capture the extent of light emitted at night. Real time updates on power outages can be extremely helpful to local residents, first responders and municipal governments. Social media platforms can be utiliized to obtain real time information on power outages and their causes. In combination with geo location data we can construct a tool to identify the locations of legitimate power outages. This tool will utilize posts on social media, specifically Twitter, to identify “hot spots” of concern and areas suffering from power outages. Following an event, the tool will scan relevant news or social media websites to identify areas likely to be suffering from power outage.
 
-# Contents
+## Contents
 
 In this repo, you will find the following notebooks in the `code` folder:
 
