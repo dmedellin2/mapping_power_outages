@@ -30,7 +30,7 @@ Twitter's focus on sharing ideas and information to the world served as our prim
 | tweet_id | Numerical ID of the desired Tweet. | Integer | 123 |
 | username | Twitter Username | String | "san jose now" |
 | text | Text of the tweet | String | "power outage in cupertino bayarea" |
-| tweet_date | Date of tweet | String | 2016-01-01 |
+| tweet_date | Date and timestamp of tweet | String | 2016-01-01 04:20:00|
 | search_term | Search term to query tweets | String | "#powerout" |
 | city | City tweet originated from | String | "Dallas" |
 | lat | Latitude of the coordinates used to search tweets | Integer | 37.3323 |
@@ -39,6 +39,18 @@ Twitter's focus on sharing ideas and information to the world served as our prim
 | name_and_tweet | Concatenated Twitter username and tweet text | String | "ttwn sf bay area power outage in cupertino bay..." |
 | outage_sentiment | Sentiment value regarding power outages  | Integer | 0.5 |
 | state | State tweet originated from | String | "Ohio" |
+
+## Python Package Requirements
+In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment: \
+* [Numpy](https://pypi.org/project/numpy/)
+* [Pandas](https://pypi.org/project/pandas/)
+* [Matplotlib](https://pypi.org/project/matplotlib/)
+* [Seaborn](https://pypi.org/project/seaborn/)
+* [Bokeh](https://pypi.org/project/bokeh/)
+* [nltk](https://pypi.org/project/nltk/)
+* [Tweetscraper](https://github.com/taspinar/twitterscraper)
+* [Scikit Learn](https://pypi.org/project/scikit-learn/)
+
 
 
 ## References
