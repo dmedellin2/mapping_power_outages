@@ -61,6 +61,15 @@ In order to succesfully clone this repository, please insure to have the followi
 * [Tweetscraper](https://github.com/taspinar/twitterscraper)
 * [Scikit Learn](https://pypi.org/project/scikit-learn/)
 
+## Conclusions and Next Steps
+
+Throughout this project we encountered many setbacks and made many compromises to our workflow and model, thus giving us various points for how to improve and enhance our work. Beginning with obtaining data from Twitter, as well as power outage data, we faced difficulties. Ideally, we would be able to use the actual Twitter API in order to gain more accurate location data for the tweets as well as do more comprehensive scrapes of Twitter data. We would also continue looking for, or purchasing, power outage history data as a way to add a confirmation of power outage to our model.
+
+When we pulled in our tweets, we looked specifically at search terms that were related to power outages, which added bias to our model. In the future, we would pull as many tweets as possible, with no search terms, but within the same locations, to train our Word2Vec model with. Doing this would give us a better look at the inherent structure for how people talk about power outages, as opposed to other content.
+
+The addition of the previously mentioned data could work to strengthen our tool of mapping power outages. As mentioned above, our goal is to have a real time interactive map that could display potential power outage areas based on tweets. Our tool would scrape Twitter in real time, analyze each tweet's outage sentiment, and display the location of where there are tweets with high outage sentiments. Additionally, the tool could collect this data and show historical information about previous power outages using the Slider function of Bokeh.
+
+Our tool could be useful for both utility providers and customers needing real time information about power outages in their area. Having this tool constantly searching through Twitter could alert a utility company or first responders to an area in need. Customers could also check the tool to see if there is evidence of others experiencing outages in their area.
 
 
 ## References
