@@ -9,10 +9,9 @@
 
 ## Problem Statement
 
-During a disaster, residential areas often experience massive power outages, that in many cases last for days. Traditional methods to map power outages include live feeds and data that is provided by major utility companies as well as on satellite data that capture the extent of light emitted at night. 
-This tool will utilize posts on social media, specifically Twitter, to identify “hot spots” of concern and areas suffering from power outages. Following an event, the tool will scan relevant news or social media websites to identify areas likely to be suffering from power outage.
+During a disaster, residential areas often experience massive power outages, that in many cases last for days. Traditional methods to map power outages include live feeds and data that is provided by major utility companies as well as on satellite data that capture the extent of light emitted at night. Real time updates on power outages can be extremely helpful to local residents, first responders and municipal governments. Social media platforms can be utiliized to obtain real time information on power outages and their causes. In combination with geo location data we can construct a tool to identify the locations of legitimate power outages. This tool will utilize posts on social media, specifically Twitter, to identify “hot spots” of concern and areas suffering from power outages. Following an event, the tool will scan relevant news or social media websites to identify areas likely to be suffering from power outage.
 
-# Contents
+## Contents
 
 In this repo, you will find the following notebooks in the `code` folder:
 
@@ -21,7 +20,7 @@ In this repo, you will find the following notebooks in the `code` folder:
 3. [EDA](./code/03_EDA.ipynb)
 4. [Geovisual Mapping](./code/04_bokeh_mapping.ipynb)
 
-All [data](./data/cleaned_tweets.csv) can be found in the `data` folder. Also included are [presentation slides](linkwillgohere). 
+All [data](./data/cleaned_tweets.csv) can be found in the `data` folder. Also included are [presentation slides](./power_outage_slides.pdf). 
 
 ## Python Package Requirements
 In order to succesfully clone this repository, please insure to have the following packages installed into your Python environment:
@@ -70,7 +69,7 @@ Throughout this project we encountered many setbacks and made many compromises t
 
 When we pulled in our tweets, we looked specifically at search terms that were related to power outages, which added bias to our model. In the future, we would pull as many tweets as possible, with no search terms, but within the same locations, to train our Word2Vec model with. Doing this would give us a better look at the inherent structure for how people talk about power outages, as opposed to other content.
 
-The addition of the previously mentioned data could work to strengthen our tool of mapping power outages. As mentioned above, our goal is to have a real time interactive map that could display potential power outage areas based on tweets. Our tool would scrape Twitter in real time, analyze each tweet's outage sentiment, and display the location of where there are tweets with high outage sentiments. Additionally, the tool could collect this data and show historical information about previous power outages using the Slider function of Bokeh.
+The addition of the previously mentioned data could work to strengthen our tool of mapping power outages. Our goal is to have a real time interactive map that could display potential power outage areas based on tweets. Our tool would scrape Twitter in real time, analyze each tweet's outage sentiment, and display the location of where there are tweets with high outage sentiments. Additionally, the tool could collect this data and show historical information about previous power outages using the Slider function of Bokeh.
 
 Our tool could be useful for both utility providers and customers needing real time information about power outages in their area. Having this tool constantly searching through Twitter could alert a utility company or first responders to an area in need. Customers could also check the tool to see if there is evidence of others experiencing outages in their area.
 
